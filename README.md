@@ -1,2 +1,1 @@
-# public-test
-Public test repo
+# Testing public git repo
